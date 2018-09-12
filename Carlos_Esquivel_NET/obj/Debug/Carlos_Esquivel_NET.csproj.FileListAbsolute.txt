@@ -1,0 +1,8 @@
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\bin\Debug\Carlos_Esquivel_NET.exe.config
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\bin\Debug\Carlos_Esquivel_NET.exe
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\bin\Debug\Carlos_Esquivel_NET.pdb
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\obj\Debug\Carlos_Esquivel_NET.csprojResolveAssemblyReference.cache
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\obj\Debug\Carlos_Esquivel_NET.exe
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\obj\Debug\Carlos_Esquivel_NET.pdb
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlos.esquivel\Desktop\Job hunt\GFT\Carlos_Esquivel_NET\Carlos_Esquivel_NET\bin\Debug\Newtonsoft.Json.xml
