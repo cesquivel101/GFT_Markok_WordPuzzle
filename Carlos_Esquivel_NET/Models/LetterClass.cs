@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Carlos_Esquivel_NET.Models
 {
+    /// <summary>
+    /// Class for individual letters to serialize to a json
+    /// </summary>
     public class LetterClass
     {
         public char Character { get; set; }

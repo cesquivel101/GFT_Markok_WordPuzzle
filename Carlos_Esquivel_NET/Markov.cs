@@ -34,11 +34,6 @@ namespace Carlos_Esquivel_NET
                     string originalVal = this.baseInfo[indexedRules[i].Rule].Source;
                     string replaceVal = this.baseInfo[indexedRules[i].Rule].Replacement;
 
-                    if (this.cypher[j].Contains(")cm"))
-                    {
-                        string check = string.Empty;
-                    }
-
                     textGrid[j] = this.cypher[j].Replace(originalVal, replaceVal);
                     if (isTermination)
                     {

@@ -27,6 +27,12 @@ namespace Carlos_Esquivel_NET.Utils
             return word;
         }
 
+        /// <summary>
+        /// Check if a word is in the solution list
+        /// </summary>
+        /// <param name="solution">list to check for word</param>
+        /// <param name="word">word to look for</param>
+        /// <returns>the instance or instances of the word</returns>
         public static List<WordClass> WordInList(List<WordClass> solution, string word)
         {
             return solution.Where(x => x.Word == word.ToUpper()).ToList();
@@ -48,6 +54,11 @@ namespace Carlos_Esquivel_NET.Utils
             return JsonConvert.SerializeObject(solution);
         }
 
+        /// <summary>
+        /// Validates that a matrix has a consistent amount of characters per row
+        /// </summary>
+        /// <param name="matrix"></param>
+        /// <returns></returns>
         public static bool ValidateMatrix(List<List<char>> matrix)
         {
             bool isValid = true;

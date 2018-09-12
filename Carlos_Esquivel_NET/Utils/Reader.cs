@@ -19,7 +19,7 @@ namespace Carlos_Esquivel_NET.Utils
         /// <typeparam name="T">Type</typeparam>
         /// <param name="readJson">is json file</param>
         /// <param name="fileName">name of the file to read</param>
-        /// <returns></returns>
+        /// <returns>the in the form of the list type</returns>
         public static List<T> read<T>(bool readJson,string fileName)
         {
             try

@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Carlos_Esquivel_NET.Models
 {
+    /// <summary>
+    /// Class for individual word to serialize to json
+    /// </summary>
     public class WordClass
     {
         public string Word { get; set; }
